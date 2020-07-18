@@ -2479,7 +2479,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	min-width:unset;
 	width:253px;
 	margin-left:5px;
-	margin-top: 75px;
+	margin-top: 7px;
 	display: flex;
 	align-items: center;
 	white-space: nowrap;
