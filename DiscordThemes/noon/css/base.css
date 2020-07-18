@@ -2471,6 +2471,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	border-radius: 0;
 	transition: 150ms all ease;
 	background: rgba(255, 255, 255, .08);
+	padding-top: 6;
 	padding-bottom: 0;
 	height: 30px;
 	border-left: 2px solid rgba(255, 255, 255, .1);
