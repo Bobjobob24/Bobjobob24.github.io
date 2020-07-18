@@ -815,7 +815,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 }
 
 .winButtonMinMax-PBQ2gm:active {
-    background:rgba(255,255,255,0.15);
+    background:rgba(60, 255, 0, 0.15);
 }
 
 /*2.b. OSX Titlebar and Buttons*/
@@ -2474,7 +2474,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	max-width: unset;
 	min-width:unset;
 	width:253px;
-	margin-left:80px;
+	margin-left:5px;
 	margin-top: 7px;
 	display: flex;
 	align-items: center;
