@@ -2,31 +2,22 @@
  * @name Noon UI
  * @author Bobjobob24
  * @version 1.7
- * @description A clean, dark, and modern user interface for DiscordApp. Fully customizable through the theme file.
+ * @description Modification of Midnight UI by Tropical#8908
  * @source https://raw.githubusercontent.com/Bobjobob24/Noon/master/base.css
  * @website https://github.com/Bobjobob24
 */
-/*
-/$$      /$$ /$$       /$$           /$$           /$$         /$$
-| $$$    /$$$|__/      | $$          |__/          | $$        | $$
-| $$$$  /$$$$ /$$  /$$$$$$$ /$$$$$$$  /$$  /$$$$$$ | $$$$$$$  /$$$$$$
-| $$ $$/$$ $$| $$ /$$__  $$| $$__  $$| $$ /$$__  $$| $$__  $$|_  $$_/
-| $$  $$$| $$| $$| $$  | $$| $$  \ $$| $$| $$  \ $$| $$  \ $$  | $$
-| $$\  $ | $$| $$| $$  | $$| $$  | $$| $$| $$  | $$| $$  | $$  | $$ /$$
-| $$ \/  | $$| $$|  $$$$$$$| $$  | $$| $$|  $$$$$$$| $$  | $$  |  $$$$/
-|__/     |__/|__/ \_______/|__/  |__/|__/ \____  $$|__/  |__/   \___/
-                                         /$$  \ $$
-                                        |  $$$$$$/
-                                         \______/
-/Import Base CSS File*/
-/*@import url('https://tropix126.github.io/BetterDiscordStuff/midnight/css/base.css');*/
+
+
+
+
+/*Import Base CSS File*/
 @import url('https://bobjobob24.github.io/DiscordThemes/noon/css/base.css');
 /*Root*/
 :root {
 /*Primary Variables*/
-  --lv1:#00000f;
-  --accent:#4a19d3;
-  --hover:#551393;
+  --lv1:#000009;
+  --accent:#01c9bfa6;
+  --hover:#16a2a7;
   --bg:url('https://i.imgur.com/YxDlYIL.jpg');
   --lvl-bg-opacity:0.25;
   --lvl-bg-fade:80%;
