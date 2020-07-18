@@ -2468,14 +2468,15 @@ html.theme-light body.bd-minimal #app-mount::before {
 	transition: 150ms all ease;
 	background: rgba(255, 255, 255, .08);
 	padding-bottom: 0;
-	height: 30px;
+	height: 60px;
 	border-left: 2px solid rgba(255, 255, 255, .1);
 	box-shadow: 0 0 2px 2px rgba(255, 255, 255, .08);
 	max-width: unset;
 	min-width:unset;
 	width:253px;
 	margin-left:5px;
-	margin-top: 75px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 	display: flex;
 	align-items: center;
 	white-space: nowrap;
