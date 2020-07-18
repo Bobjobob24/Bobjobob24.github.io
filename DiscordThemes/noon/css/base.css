@@ -779,7 +779,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 
 .preview-2nSL_2 .compact-T3H92H:last-of-type::after,
 .messagesWrapper-3lZDfY .compact-T3H92H:last-of-type::after {
-	content:'Compact Mode is not supported on Midnight. Please deactivate it through settings. TESTING TESTING';
+	content:'Compact Mode is not supported on Midnight. Please deactivate it through settings.';
 	line-height:normal;
 	color: rgba(255, 255, 255, .65);
 	font-size: var(--size1);
@@ -802,20 +802,24 @@ html.theme-light body.bd-minimal #app-mount::before {
 	width: 45px;
 	top: -4px;
 	cursor: default;
-	color: rgb(251, 255, 0);
+	color: rgb(255, 255, 255);
 	z-index:3001;
 }
 
 .winButtonClose-1HsbF-:hover {
-	background: #e88411;
+	background: #e81111;
 }
 
 .winButtonClose-1HsbF-:active {
     background:rgb(151,23,34);
 }
 
-.winButtonMinMax-PBQ2gm:active {
+.winButtonMinMax-PBQ2gm:hover {
     background:rgba(60, 255, 0, 0.15);
+}
+
+.winButtonMinMax-PBQ2gm:active {
+    background:rgba(61, 61, 61, 0.15);
 }
 
 /*2.b. OSX Titlebar and Buttons*/
