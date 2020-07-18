@@ -301,7 +301,7 @@ TABLE OF CONTENTS
 
 	/*Branding*/
 	--theme-name: 'Noon UI';
-	--theme-version: '1.3';
+	--theme-version: '1.4';
 
 	/*Discord Vars*/
 	--deprecated-store-bg: var(--lv1);	
@@ -2471,7 +2471,6 @@ html.theme-light body.bd-minimal #app-mount::before {
 	border-radius: 0;
 	transition: 150ms all ease;
 	background: rgba(255, 255, 255, .08);
-	padding-top: 6;
 	padding-bottom: 0;
 	height: 30px;
 	border-left: 2px solid rgba(255, 255, 255, .1);
@@ -2480,7 +2479,7 @@ html.theme-light body.bd-minimal #app-mount::before {
 	min-width:unset;
 	width:253px;
 	margin-left:5px;
-	margin-top: 7px;
+	margin-top: 75px;
 	display: flex;
 	align-items: center;
 	white-space: nowrap;
