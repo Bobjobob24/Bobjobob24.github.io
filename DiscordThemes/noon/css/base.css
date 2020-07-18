@@ -802,12 +802,12 @@ html.theme-light body.bd-minimal #app-mount::before {
 	width: 45px;
 	top: -4px;
 	cursor: default;
-	color: #fff;
+	color: rgb(251, 255, 0);
 	z-index:3001;
 }
 
 .winButtonClose-1HsbF-:hover {
-	background: #11bde8;
+	background: #e88411;
 }
 
 .winButtonClose-1HsbF-:active {
